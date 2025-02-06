@@ -1,0 +1,72 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# Visual Studio specific files
+.vs/
+*.user
+*.rsuser
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# DotNet specific
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+project.assets.json
+project.nuget.cache
+
+# Debug and generated files
+*.generated.cs
+*.cache
+*.ide
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Test files
+TestResults/
+*.trx
+*.coverage
+.coverage
