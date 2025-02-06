@@ -27,21 +27,20 @@ Le projet Spot the Difference! a pour objectif de développer une application mo
 
     - Sélection d'une différence.
     - Validation d'une différence.
+    - Affichage du menu d'accueil.
+    - Créer une partie en ligne.
+    - Gestion des images (Admin).
+    - Gestion de la sélection d'image dans une partie.
+    - Rejoindre une partie en ligne.
 
 ### À valider :
 
-    - Affichage du menu d'accueil.
-    - Créer une partie en ligne.
+    - Ajout d'un timer dans les parties multijoueurs.
 
 ### À faire :
 
-    - Rejoindre une partie en ligne.
-    - Ajout d'un timer dans les parties multijoueurs.
     - Visualisation du score pendant la partie.
     - Classement personnel.
-    - Gestion des images (Admin).
-    - Gestion de la sélection d'image dans une partie.
-
 
 ## Technologies utilisés
 
